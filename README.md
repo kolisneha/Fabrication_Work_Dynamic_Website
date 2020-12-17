@@ -1,0 +1,3 @@
+# DYNAMIC WEBSITE
+Most consumers are looking online for information that will help them make smarter purchasing decisions. In fact, according to the eCommerce Foundation, 88% of consumers will research product information before they make a purchase online or in the store.This buying behavior trend emphasizes the importance of a website for today’s businesses.
+    For that I created a website for "CHINTAMANI FABRICATION" which is located near my hometown.
